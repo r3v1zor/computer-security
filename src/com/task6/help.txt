@@ -1,0 +1,9 @@
+// all paths
+//
+//
+~~ - split symbol
+//file1
+~
+//file2
+~
+//file3
